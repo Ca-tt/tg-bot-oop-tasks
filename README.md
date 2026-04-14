@@ -1,0 +1,1 @@
+Tasks for improving OOP skills, practice SOLID principles and learn how to use design patterns 
